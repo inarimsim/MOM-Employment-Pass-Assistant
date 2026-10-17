@@ -1,0 +1,484 @@
+# EMPLOYMENT PASS (EP)
+
+## Overview
+
+The Employment Pass (EP) is for foreign professionals, managers and executives who have a job offer in Singapore and meet the eligibility requirements.
+
+An employer or appointed employment agent must apply on behalf of the candidate. For overseas companies without a Singapore-registered office, a local sponsor is required to submit the application.
+
+There is no foreign worker levy or quota required for Employment Pass holders.
+
+Eligible family members may apply for family-related passes.
+
+Employment Pass holders may be subject to Singapore income tax requirements.
+
+## Key Facts
+
+Who the pass is for:
+- Foreign professionals
+- Managers
+- Executives
+
+Qualifying salary:
+- Fixed monthly salary starting from SGD 5,600
+- Salary requirement increases progressively with age
+- Can reach approximately SGD 10,700 for applicants in their mid-40s
+- Candidates in the financial services sector may require higher qualifying salaries
+
+Pass duration:
+- First-time applicants: Up to 2 years
+- Renewals: Up to 3 years
+
+Experienced technology professionals with shortage skills may qualify for a 5-year Employment Pass.
+
+Medical insurance:
+- Employers may choose whether to provide medical insurance for Employment Pass holders.
+
+## Family Benefits
+
+Employment Pass holders may be eligible to bring family members to Singapore through available family pass schemes, subject to MOM eligibility requirements.
+
+## Fair Consideration Framework (FCF)
+
+Before submitting an Employment Pass application, employers are generally required to advertise the vacancy on MyCareersFuture.
+
+The objective of the Fair Consideration Framework (FCF) is to:
+- Promote fair hiring
+- Improve labour market transparency
+- Encourage employers to consider all candidates fairly
+
+Employers should not discriminate against candidates based on:
+- Age
+- Sex
+- Nationality
+- Race
+- Other non-job-related characteristics
+
+Employers are expected to comply with the Tripartite Guidelines on Fair Employment Practices.
+
+## Job Advertisement Requirements
+
+Employment Pass applications may be rejected if the related advertisement:
+
+- Contains discriminatory wording
+- Does not accurately represent the role
+- Uses a different occupation from the EP application
+- Is submitted by a different employer than the advertiser
+- Contains salary information that is unclear or misleading
+
+Salary advertisement rules:
+
+- Salary range must be visible
+- Salary range cannot be excessively broad
+- Maximum salary should not exceed double the minimum salary
+- Advertised salary must include the salary intended for the EP candidate
+
+Where a single advertisement is used for multiple EP applications, the number of applications cannot exceed the number of advertised vacancies.
+
+## Advertising Duration Requirements
+
+The MyCareersFuture job advertisement must:
+
+- Be open for at least 14 consecutive days
+- Allow sufficient time for jobseekers to apply
+- Be reposted if key details are changed
+
+Changes that require a new advertisement include:
+- Organisation identifier
+- Occupation
+- Salary
+- Number of vacancies
+
+Advertisements that have expired or been closed for more than 3 months cannot be used for Employment Pass applications.
+
+## Additional Fair Hiring Requirements
+
+Employers should not make a job offer during the required 14-day advertising period.
+
+This allows:
+- Fair consideration of candidates
+- Sufficient application time for jobseekers
+
+## Exemptions from Advertising Requirements
+
+Employers may be exempt from MyCareersFuture advertising if any of the following apply:
+
+- Company has fewer than 10 employees
+- Fixed monthly salary is SGD 22,500 or higher
+- Job duration is 1 month or less
+- Position is filled by a local transferee
+
+Examples of exempt situations include:
+- Internal transfers between related offices
+- Eligible overseas intra-corporate transferees
+
+## Application Process
+
+Before applying:
+
+1. Advertise on MyCareersFuture where required.
+2. Consider all candidates fairly.
+3. Verify Employment Pass eligibility requirements.
+4. Prepare required supporting documents.
+5. Submit application through the appropriate MOM system.
+
+## Renewal
+
+Employment Passes can be renewed if renewal requirements are met.
+
+Renewed passes may be issued for up to 3 years.
+
+## Relevant Legislation
+
+- Employment of Foreign Manpower Act
+- Conditions of Work Pass
+
+## Employment Pass Eligibility
+
+Employment Pass (EP) applications follow a 2-stage eligibility framework.
+
+Stage 1: Qualifying Salary
+
+Candidates must meet the Employment Pass qualifying salary requirements.
+
+Current qualifying salary:
+
+Non-financial services sector:
+- Minimum SGD 5,600 per month
+- Increases with age
+- Up to approximately SGD 10,700 for applicants aged 45 and above
+
+Financial services sector:
+- Minimum SGD 6,200 per month
+- Increases with age
+- Up to approximately SGD 11,800 for applicants aged 45 and above
+
+Future qualifying salary requirements:
+
+Non-financial services:
+- SGD 6,000 minimum
+- Up to SGD 11,500 for older applicants
+
+Financial services:
+- SGD 6,600 minimum
+- Up to SGD 12,700 for older applicants
+
+Candidates who do not meet the qualifying salary requirement will not be eligible for Employment Pass regardless of their COMPASS score.
+
+Employers can use the Self-Assessment Tool (SAT) before submitting an application.
+
+## COMPASS Framework
+
+The Complementarity Assessment Framework (COMPASS) is a points-based assessment framework used for Employment Pass applications.
+
+Candidates generally need:
+- Minimum of 40 points to pass COMPASS.
+
+COMPASS evaluates both candidate-level and company-level factors.
+
+### Criterion C1 – Salary
+
+Points awarded based on candidate salary compared to local PMET salaries in the sector.
+
+- 90th percentile and above: 20 points
+- 65th to below 90th percentile: 10 points
+- Below 65th percentile: 0 points
+
+### Criterion C2 – Qualifications
+
+Top-tier degree-equivalent qualifications:
+- 20 points
+
+Other degree-equivalent qualifications:
+- 10 points
+
+No degree-equivalent qualifications:
+- 0 points
+
+Candidates without degree-equivalent qualifications may still pass COMPASS if they accumulate enough points from other criteria.
+
+### Criterion C3 – Diversity
+
+Measures the concentration of the candidate's nationality within the employer's PMET workforce.
+
+Fewer than 25 PMETs:
+- Automatic 10 points
+
+For organisations with 25 or more PMETs:
+
+Nationality share below 5%:
+- 20 points
+
+Nationality share between 5% and below 25%:
+- 10 points
+
+Nationality share 25% or higher:
+- 0 points
+
+### Criterion C4 – Support for Local Employment
+
+Measures the organisation's local PMET representation.
+
+Fewer than 25 PMETs:
+- Automatic 10 points
+
+50th percentile and above:
+- 20 points
+
+20th to below 50th percentile:
+- 10 points
+
+Below 20th percentile:
+- 0 points
+
+### Criterion C5 – Skills Bonus
+
+Applies to occupations on the Shortage Occupation List (SOL).
+
+Job on SOL and nationality share less than one-third:
+- 20 bonus points
+
+Job on SOL and nationality share one-third or more:
+- 10 bonus points
+
+Additional eligibility checks may be required.
+
+### Criterion C6 – Strategic Economic Priorities (SEP) Bonus
+
+Employers participating in recognised economic programmes may receive:
+
+- 10 bonus points
+
+These bonus points are valid for up to 3 years.
+
+## COMPASS Exemptions
+
+Candidates may be exempt from COMPASS if they satisfy any of these conditions:
+
+- Fixed monthly salary of at least SGD 22,500
+- Overseas intra-corporate transferee
+- Short-term role of 1 month or less
+
+## Family Passes
+
+Employment Pass holders can bring family members to Singapore if:
+
+- Holder earns at least SGD 6,000 per month
+- Holder possesses a valid Employment Pass
+
+Eligible family members:
+
+Dependant's Pass:
+- Legally married spouse
+- Unmarried children below 21 years old
+- Adopted children below 21 years old
+
+Long-Term Visit Pass:
+- Common-law spouse
+- Unmarried handicapped children aged 21 and above
+- Unmarried stepchildren below 21 years old
+
+Parents:
+- Eligible under Long-Term Visit Pass
+- EP holder must earn at least SGD 12,000 per month
+
+## Documents Required
+
+Required documents generally include:
+
+- Passport personal particulars page
+- Company ACRA profile
+- Qualification verification documents (if applicable)
+
+Additional supporting documents may be required for regulated professions such as:
+- Doctors
+- Dentists
+- Nurses
+- Pharmacists
+- Lawyers
+- Allied health professionals
+
+Non-English documents must be submitted together with an English translation.
+
+## Employment Pass Application Process
+
+Step 1
+Obtain candidate's written consent.
+
+Step 2
+Complete candidate information form.
+
+Step 3
+Submit application through EP eService.
+
+Step 4
+Upload required supporting documents.
+
+Step 5
+Pay SGD 105 application fee.
+
+Processing time:
+- Typically within 10 business days
+
+If approved:
+
+- Candidate receives In-Principle Approval (IPA)
+- IPA valid for 6 months
+- Candidate travels to Singapore
+- Pass is issued
+- Digital work pass is activated
+- Card delivered within approximately 5 working days after registration
+
+Issuance fees:
+- SGD 225 per pass
+- SGD 30 Multiple Journey Visa (if applicable)
+
+## Fair Consideration Framework (FCF)
+
+Employers applying for Employment Passes must generally:
+
+- Advertise roles on MyCareersFuture
+- Keep advertisements open for at least 14 consecutive days
+- Consider candidates fairly
+
+Advertisements must:
+- Be accurate
+- Be non-discriminatory
+- Include salary information
+- Match the submitted EP application
+
+Employers should not make job offers during the mandatory advertising period.
+
+Advertising exemptions apply for:
+
+- Companies with fewer than 10 employees
+- Roles paying at least SGD 22,500 monthly
+- Roles of one month or less
+- Local transferees
+- Eligible overseas intra-corporate transferees
+
+## Appeal Against Rejected Employment Pass Applications
+
+Employers may appeal a rejected Employment Pass application within 3 months of rejection.
+
+Appeals should only be submitted if:
+- The reasons for rejection can be addressed.
+- New information can be provided.
+
+Employers should:
+- Review the rejection advisory.
+- Use the Self-Assessment Tool (SAT) to reassess eligibility.
+
+Appeals are submitted through EP eService.
+
+Supporting documents should only be submitted when necessary.
+
+Typical appeal processing time:
+- 85% of appeals are processed within 6 weeks.
+
+Only the employer or authorised representative who submitted the application can appeal.
+
+## Employment Pass Renewal
+
+An Employment Pass may be renewed if:
+- The pass holder continues working for the same employer.
+- The pass holder remains in a managerial, executive or specialised role.
+- Salary requirements continue to be met.
+- COMPASS requirements are satisfied where applicable.
+
+Renewal timeline:
+- Up to 6 months before expiry.
+- EP Sponsorship cases: up to 3 months before expiry.
+
+Renewed pass validity:
+- Up to 3 years.
+
+Renewal fees:
+- SGD 225 issuance fee.
+- SGD 30 Multiple Journey Visa (if applicable).
+
+Renewals are not guaranteed.
+
+Processing:
+- Usually within 10 business days.
+
+## Cancellation of Employment Pass
+
+Employers must cancel the Employment Pass when employment ends.
+
+Cancellation timeline:
+- Within 1 week after the final day of notice.
+
+Cancellation effects:
+- Pass holder can no longer work.
+- Related family passes are automatically cancelled.
+- Work pass card should be destroyed.
+
+Employers should:
+- Obtain tax clearance from IRAS.
+- Settle outstanding employment issues.
+- Arrange repatriation if applicable.
+
+A Short-Term Visit Pass (STVP) may be requested to allow temporary stay in Singapore after cancellation.
+
+## Replacement of Employment Pass Card
+
+Replacement must be requested within 1 week if the card is:
+- Lost
+- Stolen
+- Damaged
+
+Fees:
+
+Damaged card:
+- SGD 65.40
+
+Lost or stolen card:
+- First replacement: SGD 109
+- Subsequent replacements: SGD 327
+
+Replacement requests are typically processed immediately.
+
+New card collection:
+- Usually within 4 working days.
+
+For stolen cards:
+- Police report required.
+
+## Updates That Must Be Reported to MOM
+
+Employers or pass holders must notify MOM regarding relevant changes.
+
+Examples:
+
+Salary changes:
+- Salary reductions must be reported at least 1 month before implementation.
+- Salary increases generally updated during renewal unless dependant privileges are being requested.
+
+Company changes:
+- Company name
+- Paid-up capital
+- Company address
+- Business restructuring
+
+Pass holder updates:
+- Residential address
+- Mobile number
+- Passport details
+- Nationality
+- Marital status
+- Occupation
+
+Residential addresses and mobile numbers should generally be updated within 5 days.
+
+## 5-Year Employment Pass for Experienced Technology Professionals
+
+Eligible technology professionals may qualify for a 5-year Employment Pass.
+
+Requirements include:
+- Occupation listed on the COMPASS Shortage Occupation List (SOL).
+- Successful COMPASS assessment.
+- Meeting additional salary thresholds.
+- Satisfying occupation-specific verification requirements.
+
+This longer-duration Employment Pass aims to support highly skilled technology professionals working in shortage occupations.
